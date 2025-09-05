@@ -35,6 +35,7 @@ STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/logo.png': {'path': 'logo.png'},
     'extra/055.jpg': {'path': '055.jpg'},
+    'extra/CNAME': {'path': 'CNAME'},
     'extra/favicons/favicon.ico': {'path': 'favicon.ico'},
     'extra/favicons/favicon-16x16.png': {'path': 'favicon-16x16.png'},
     'extra/favicons/favicon-32x32.png': {'path': 'favicon-32x32.png'},
