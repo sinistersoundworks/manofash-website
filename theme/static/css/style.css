@@ -24,8 +24,8 @@ body {
 }
 
 .logo {
-    max-width: 600px;
-    max-height: 400px;
+    max-width: 1200px;
+    max-height: 800px;
     width: auto;
     height: auto;
     display: block;
@@ -40,10 +40,10 @@ body {
 }
 
 .subscribe-form {
-    background: rgba(255, 255, 255, 0.1);
+    background: #000000;
     padding: 30px;
     border-radius: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.2);
+    border: none;
 }
 
 .subscribe-form h2 {
@@ -98,8 +98,8 @@ body {
 /* Responsive design */
 @media (max-width: 480px) {
     .logo {
-        max-width: 500px;
-        max-height: 300px;
+        max-width: 1000px;
+        max-height: 600px;
     }
     
     .subscribe-form {
