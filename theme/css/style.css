@@ -8,13 +8,11 @@
 body {
     background-color: #000000;
     background-image: 
-        radial-gradient(circle at 20% 80%, rgba(120, 119, 198, 0.03) 0%, transparent 50%),
-        radial-gradient(circle at 80% 20%, rgba(255, 119, 198, 0.03) 0%, transparent 50%),
-        radial-gradient(circle at 40% 40%, rgba(120, 119, 198, 0.02) 0%, transparent 50%),
-        linear-gradient(45deg, transparent 49%, rgba(255, 255, 255, 0.01) 50%, transparent 51%),
-        linear-gradient(-45deg, transparent 49%, rgba(255, 255, 255, 0.01) 50%, transparent 51%);
-    background-size: 200px 200px, 300px 300px, 150px 150px, 3px 3px, 3px 3px;
-    background-position: 0 0, 100px 100px, 50px 50px, 0 0, 0 0;
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url('/055.jpg');
+    background-repeat: repeat;
+    background-size: auto;
+    background-position: 0 0;
     color: #ffffff;
     font-family: 'Arial', sans-serif;
     min-height: 100vh;
