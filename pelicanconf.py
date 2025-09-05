@@ -34,6 +34,13 @@ THEME = 'theme'
 STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/logo.png': {'path': 'logo.png'},
+    'extra/favicons/favicon.ico': {'path': 'favicon.ico'},
+    'extra/favicons/favicon-16x16.png': {'path': 'favicon-16x16.png'},
+    'extra/favicons/favicon-32x32.png': {'path': 'favicon-32x32.png'},
+    'extra/favicons/apple-touch-icon.png': {'path': 'apple-touch-icon.png'},
+    'extra/favicons/android-chrome-192x192.png': {'path': 'android-chrome-192x192.png'},
+    'extra/favicons/android-chrome-512x512.png': {'path': 'android-chrome-512x512.png'},
+    'extra/favicons/site.webmanifest': {'path': 'site.webmanifest'},
 }
 
 # Custom settings
