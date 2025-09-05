@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Georgi Zhelyazkov'
-SITENAME = 'Manofash'
-SITEURL = ''
+SITENAME = 'Man Of Ash'
+SITEURL = 'https://manofash.com'
 
 PATH = 'content'
 
